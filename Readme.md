@@ -16,10 +16,9 @@ VisitorExperience.Api
 
 ### Frontend
 You can find more details, information and documentation here
-```
 * Get started with angular cli https://cli.angular.io/
 * Find a general Documentation about angular https://angular.io/docs
-```
+
 
 ### Backend
 You can find more details, information and documentation here
